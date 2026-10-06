@@ -12,7 +12,20 @@
           "package_name": "com.authcheck.app"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "696820039984-2bs99ib08fnecgfknfj5s8o208cv4p8i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.authcheck.app",
+            "certificate_hash": "c93e5d09cbe0643849434ad2cb1099ca96eee362"
+          }
+        },
+        {
+          "client_id": "696820039984-rj2h92v9t579l9ne5kl6pcm2p8cs46ki.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyBiqrY1K4QQLNaCjVyoodlpGI6PmEVgPkg"
@@ -20,7 +33,12 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "696820039984-rj2h92v9t579l9ne5kl6pcm2p8cs46ki.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     },
@@ -31,7 +49,20 @@
           "package_name": "com.pushnotificationcollapsable"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "696820039984-htvgbvq50rjd6qomhlvuo0i190q7ejtv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pushnotificationcollapsable",
+            "certificate_hash": "0ed4a60d1990e982d45017e7ce23f4ba7483c9cb"
+          }
+        },
+        {
+          "client_id": "696820039984-rj2h92v9t579l9ne5kl6pcm2p8cs46ki.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyBiqrY1K4QQLNaCjVyoodlpGI6PmEVgPkg"
@@ -39,7 +70,12 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "696820039984-rj2h92v9t579l9ne5kl6pcm2p8cs46ki.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     }
